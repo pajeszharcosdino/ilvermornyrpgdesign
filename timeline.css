@@ -1,0 +1,59 @@
+.ClassyTimeline {
+	background-color: #FFF;
+	width: 420px;
+	height:auto;
+padding-top:0px;
+border-right: 1px solid #5AAE4D;
+}
+.ctHeader {	background-image: url('http://arie-designs.net/Shine/crossed_stripes.png');
+	width: 420px;
+padding-top:50px;}
+.ctTop {
+border-style: solid;
+border-width: 0 0 100px 420px;
+border-color: transparent transparent #fff transparent;}
+.ct-avatar {width:100px; height: 100px; border: 5px solid #C6F87B;margin-top:-120px;margin-right:-220px;}
+.ctContent {padding:20px;}
+.ctbottom {width: 0;height: 0;border-style: solid; border-width: 0 0 100px 420px; border-color: transparent transparent #5AAE4D transparent; margin-top:-50px;}
+.ct-title {
+	margin-top:-120px;
+	margin-left:30px;
+	color: #fff;
+	font-family: 'Sacramento', cursive;
+	float:left;
+}
+.ct-title h1:first-letter {
+	font-family: 'Sacramento', cursive;
+	color: #C6F87B;
+	display:block;
+	font-size: 62px;
+	padding: 5px;
+}
+.ct-title h3 {
+	font-size:9px;
+	letter-spacing: 1px;
+	font-family: 'Josefin Sans', sans-serif;
+	margin-top: -5px;
+}
+.ct-title b {
+	color: #C6F87B;
+}
+.tblheads h1 {font-family: 'Sacramento', cursive;
+	color: #f1f1f1;
+	display:block;
+	font-size: 48px;
+	padding: 5px;
+	align: center;}
+.tblheads h3 {	color: #C6F87B;
+	font-size:9px;
+	letter-spacing: 1px;
+	font-family: 'Josefin Sans', sans-serif;
+font-weight:bold;
+	}
+.right-arrow {width: 0; height: 0;border-style: solid; border-width: 20px 0 20px 10px; border-color: transparent transparent transparent #C6F87B; float:right;margin-right:-9px;}
+.left-arrow {width: 0; height: 0;border-style: solid; border-width: 20px 10px 20px 0;
+border-color: transparent #C6F87B transparent transparent;}
+.tblcontent {border: 2px solid #C6F87B;height:60px;padding: 3px;width:100%; border-radius:5px; text-align:justify; font-size:10px; letter-spacing: 1px; font-family: 'Josefin Sans', sans-serif; color: #989898; overflow:auto;}
+.tblcontent::-webkit-scrollbar { display: none;}
+.tblcontent b {font-size:11px; font-family: 'Josefin Sans', sans-serif; color: #C6F87B; font-weight:bold;}
+.tblcontent i {font-size:11px; letter-spacing: 2px; font-family: 'Josefin Sans', sans-serif; color: #C6F87B; font-style:italic;}
